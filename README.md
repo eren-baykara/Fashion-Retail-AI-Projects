@@ -29,10 +29,4 @@ To increase cross-sales, I designed a system to suggest items that go well toget
 * **The Logic:** I used the **Apriori Algorithm** to analyze past transaction data and find strong association rules between products.
 * **Integration:** I wrote SQL procedures to serve these recommendations directly to the front-end applications.
 
-## 4. MLOps & Monitoring
-I hate doing manual checks, so I built automation tools:
-* **GPU Monitor:** A dashboard I wrote in Python to watch our GPU usage in real-time so we know when we hit bottlenecks during model training.
-* **Server Alerts:** Scripts that automatically email me if disk space or SQL loads get too high.
-
----
 *Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/eren-baykara-534110228) if you want to discuss the technical details!*
